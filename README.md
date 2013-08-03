@@ -1,7 +1,7 @@
 Sinatra AWS - API
 =================
 
-With SAWS-API you can easily communicate or integrate your services with AWS APIs. It supports with all REST AWS APIs including Autoscaling, EC2.
+With SAWS-API you can easily communicate or integrate your services with AWS APIs. It supports all REST AWS APIs including Autoscaling, EC2.
 
 Usage
 -----

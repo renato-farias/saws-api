@@ -1,0 +1,13 @@
+general:
+  aws_user: 'INSERT HERE YOUR AWS KEY'
+  aws_pass: 'INSERT HERE YOUR AWS SECRET'
+
+as:
+  api_proto: http
+  api_endpoint: autoscaling.us-east-1.amazonaws.com
+  api_version: '2011-01-01'
+
+ec2:
+  api_proto: http
+  api_endpoint: ec2.us-east-1.amazonaws.com
+  api_version: '2013-02-01'
